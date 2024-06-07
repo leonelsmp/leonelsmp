@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonelsmp&show_icons=true&theme=tokyonight"/>    
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonelsmp&layout=compact&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonelsmp&show_icons=true&theme=tokyonight"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonelsmp&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
 
 ```math
